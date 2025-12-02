@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm **Keny** - I'm a fullstack developer.
+I'm **Kenta NIIDA** - I'm a fullstack developer.
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,spring,vite,supabase,vercel)](https://skillicons.dev)
 
