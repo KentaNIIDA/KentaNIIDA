@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm **Keny** - I'm a fullstack developer.
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,spring,vite,supabase,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,spring,vite,supabase,vercel)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,md,java,mysql)](https://skillicons.dev)
 
