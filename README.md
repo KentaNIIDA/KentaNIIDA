@@ -3,8 +3,8 @@ I'm **Keny** - I'm a fullstack developer.
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,spring,vite,supabase,vercel)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,java,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,java,md,mysql)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,git,github,githubactions,npm,pnpm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,npm,pnpm)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,figma,postman,apple)](https://skillicons.dev)
