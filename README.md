@@ -1,13 +1,13 @@
 ## Hi there 👋
 I'm **Kenta NIIDA** - I'm a fullstack developer.
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,spring,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,spring,vite,apple)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,java,md)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,supabase,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,supabase)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,npm,pnpm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,npm,pnpm,vercel)](https://skillicons.dev)
 
 ### Tool
 
@@ -15,4 +15,4 @@ I'm **Kenta NIIDA** - I'm a fullstack developer.
 
 ### A little bit.
 
-[![My Skills](https://skillicons.dev/icons?i=swift,electron,vitest,docker,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,electron,vitest,docker)](https://skillicons.dev)
