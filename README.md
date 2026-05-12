@@ -7,7 +7,5 @@ I'm **Kenta NIIDA** - I'm a fullstack developer.
 
 [![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,supabase)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vite,vitest,electron,vercel)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,npm,pnpm,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,vercel,docker)](https://skillicons.dev)
 
