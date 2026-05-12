@@ -11,4 +11,3 @@ I'm **Kenta NIIDA** - I'm a fullstack developer.
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,npm,pnpm,docker)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,obsidian,notion,figma)](https://skillicons.dev)
