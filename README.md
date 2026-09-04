@@ -3,7 +3,7 @@
 
 え、Repo消したら草も消えるの？
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,spring,vite,vitest,electron)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,spring,vite,vitest)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,swift,html,css,sass,java,md)](https://skillicons.dev)
 
