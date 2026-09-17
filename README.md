@@ -5,7 +5,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,vite,vitest)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,md,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,swift)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,spring,java)](https://skillicons.dev)
 
