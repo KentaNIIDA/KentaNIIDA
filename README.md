@@ -1,5 +1,5 @@
 ## Hi there 👋
- I'm a fullstack developer.
+ I'm a web developer.
 
 え、Repo消したら草も消えるの？
 
